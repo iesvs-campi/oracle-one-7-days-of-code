@@ -1,6 +1,6 @@
 ![Portada Día 01](../images/cover-day-01.png)
 
-#Lógica JS 1/7: Operaciones Booleanas
+# Lógica JS 1/7: Operaciones Booleanas
  
 ¡Llegó la hora, vas a comenzar tu jornada en el #7DaysOfCode ;)
 
