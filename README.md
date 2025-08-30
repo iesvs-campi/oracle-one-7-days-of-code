@@ -1,4 +1,4 @@
-![Portada 07 Days of Code](../images/07-days-of-code.webp)
+![Portada 07 Days of Code](/images/07-days-of-code.webp)
 
 # 7 Days of Code
 
