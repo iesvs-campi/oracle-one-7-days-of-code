@@ -15,7 +15,7 @@ El 7 Days of Code es un desafío de lógica de programación para estudiantes de
 Este repositorio contiene mis **soluciones personales** a los ejercicios diarios del desafío.
 
 ## Organización
-- `day-01` – Comparando valores y tipos en JavaScript
+- `day-01` – Lógica JS 1/7: Operaciones Booleanas
 - `day-02` – Próximamente
 - `day-03` – Próximamente
 - `day-04` – Próximamente
