@@ -1,6 +1,8 @@
 ![Portada Día 01](../images/cover-day-01.png)
 
-# ¡Llegó la hora, vas a comenzar tu jornada en el #7DaysOfCode ;)
+#Lógica JS 1/7: Operaciones Booleanas
+ 
+¡Llegó la hora, vas a comenzar tu jornada en el #7DaysOfCode ;)
 
 Este primer día es muy importante. Al final de él, tendrás un nuevo conocimiento que es esencial para los próximos desafíos.
 
