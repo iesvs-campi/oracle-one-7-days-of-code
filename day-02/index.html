@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Lógica JS 2/7: Variables</title>
+    
+</head>
+<body>
+
+    <!-- Desarrollo realizado usando BEM y buenas prácticas de accesibilidad -->
+    <main class="main">
+
+        <section class="formulario" id="formulario">
+            <label for="nombreUsuario" class="formulario__label">¿Cuál es tu nombre?</label>
+            <input type="text" class="formulario__input" id="nombreUsuario" placeholder="Nombre">
+            
+            <label for="edadUsuario" class="formulario__label">¿Cuántos años tienes?</label>
+            <input type="number" class="formulario__input" id="edadUsuario" placeholder="Edad">
+
+            <label for="lenguajeUsuario" class="formulario__label">¿Qué lenguaje de programación estás estudiando?</label>
+            <input type="text" class="formulario__input" id="lenguajeUsuario" placeholder="Lenguaje favorito">
+
+            <div class="formulario__botones">
+                <button class="formulario__button formulario__button--primario" aria-label="Enviar formulario" onclick="procesarFormulario()">Enviar</button>
+            </div>
+            <p class="formulario__mensaje" id="mensajeResultado" aria-live="polite"></p>
+            <button class="formulario__button formulario__button--secundario" aria-label="Limpiar formulario" onclick="reiniciar()">Reiniciar</button>
+
+        </section>
+<!--    Esto se usará en la versión extendida si es que la llego a hacer
+        <section class="formulario" id="preguntasForm" hidden>            
+            <label for="respuesta" class="formulario__label" id="pregunta"></label>
+            <input type="number" class="formulario__input" id="respuesta" placeholder="">
+            
+            <div class="formulario__botones">
+                <button class="formulario__button formulario__button--primario" aria-label="Enviar respuesta" onclick="responderPregunta()">Responder</button>
+                <button class="formulario__button formulario__button--secundario" aria-label="Limpiar formulario" onclick="reiniciar()">Reiniciar</button>
+            </div>
+        </section>
+-->    
+    </main>
+
+    <script src="./solution-basic-day-02.js"></script>
+</body>
+</html>
