@@ -16,7 +16,7 @@ Este repositorio contiene mis **soluciones personales** a los ejercicios diarios
 
 ## Organización
 - `day-01` – Lógica JS 1/7: Operaciones Booleanas
-- `day-02` – Próximamente
+- `day-02` – Lógica JS 2/7: Variables
 - `day-03` – Próximamente
 - `day-04` – Próximamente
 - `day-05` – Próximamente
