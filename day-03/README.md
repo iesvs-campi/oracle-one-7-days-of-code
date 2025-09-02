@@ -5,9 +5,17 @@
 
 ¿Alguna vez has jugado un juego que te dé más de una opción y,
 dependiendo de lo que elijas, el destino del personaje sea completamente
-diferente?
-
+diferente?  
 **Hoy vas a desarrollar un ejemplo así con Javascript.**
+
+
+## Solución 
+
+El resultado del desafío ha sido publicado en GitHub Pages para su visualización. Haz clic en el siguiente enlace para explorar la aplicación final: 
+
+> ### [Proyecto Final Día 03](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-03/solution/ )
+
+## Desafío
 
 Quiero que trabajes con estructuras de control de flujo. Esta forma
 complicada de decirlo significa que, al igual que en los juegos, **la

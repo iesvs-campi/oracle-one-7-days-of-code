@@ -6,6 +6,14 @@
 
 Este primer día es muy importante. Al final de él, tendrás un nuevo conocimiento que es esencial para los próximos desafíos.
 
+## Solución 
+He desarrollado 2 versiones para este desafío: una básica, en la que me limito a resolver el problema de forma sencilla, y otra extendida, en la que aplico buenas prácticas.  
+
+### Puedes ver el código de ambas soluciones:
+> - ### [Solución Básica Día 01](./solution/solution-basic-day-01.js)   
+> - ### [Solución Extendida Día 01](./solution/solution-extended-day-01.js)  
+
+## Desafío
 Existe una situación muy común para quienes usan Javascript: problemas con los tipos de variables al comparar los valores de dos variables entre sí. ¡A mí me ha pasado mucho!
 
 En lenguajes de programación compilados, como Java y C#, este problema se detecta en tiempo de compilación, y tienes un aviso claro del error mientras desarrollas el código.
