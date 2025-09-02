@@ -1,6 +1,6 @@
 ![Portada 07 Days of Code](/images/07-days-of-code.webp)
 
-# 7 Days of Code
+# #7DaysofCode
 
 ## Descripción del desafío
 El 7 Days of Code es un desafío de lógica de programación para estudiantes de **Oracle Next Education**, propuesto por **Alura Latam**. Durante siete días, los participantes resuelven ejercicios diarios que exploran estructuras de control de flujo, estructuras de datos, funciones y otras técnicas de JavaScript.
@@ -14,11 +14,11 @@ El 7 Days of Code es un desafío de lógica de programación para estudiantes de
 ## Propósito de este repositorio
 Este repositorio contiene mis **soluciones personales** a los ejercicios diarios del desafío.
 
-## Organización
-- `day-01` – Lógica JS 1/7: Operaciones Booleanas
-- `day-02` – Lógica JS 2/7: Variables
-- `day-03` – Próximamente
-- `day-04` – Próximamente
+## Desafíos 
+- `day-01` – [Lógica JS 1/7: Operaciones Booleanas](./day-01/README.md)
+- `day-02` – [Lógica JS 2/7: Variables]()
+- `day-03` – [Lógica JS 3/7: Estructuras de control de flujo]()
+- `day-04` – [Lógica JS 4/7: Mas loops y randomización]()
 - `day-05` – Próximamente
 - `day-06` – Próximamente
 - `day-07` – Próximamente
