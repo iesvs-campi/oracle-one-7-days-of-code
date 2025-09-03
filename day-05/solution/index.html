@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Lógica JS 5/7: Arrays y colecciones</title>
+</head>
+<body class="body">
+    <main class="main">
+        <section class="app">
+
+            <label class="app__pregunta" id="label1" for="select1">¿Agregar alimento?</label>
+            <input class="app__input" id="input1" placeholder="EJ: Naranja">
+            <select class="app__categoria" id="select1" >
+                <option value="" disabled selected> Elija una categoría </option>
+                <option value="Frutas">Frutas</option> 
+                <option value="Lácteos">Lácteos</options>
+                <option value="Congelados">Congelados</option> 
+                <option value="Dulces">Dulces</option>
+            </select>
+            <div class="app__buttons">
+                <button class="app__button" id="button1">Sí</button>
+                <button class="app__button" id="button2" >No</button>
+            </div>    
+            <ul class="app__lista" id="ul1" hidden></ul>
+            <p class="app__texto" id="p1" hidden></p>
+
+        </section>
+
+    </main>
+    <script src="./solution-day-05.js"></script>
+</body>
+</html>

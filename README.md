@@ -1,4 +1,4 @@
-![Portada 07 Days of Code](/images/07-days-of-code.webp)
+![Portada 07 Days of Code](./images/07-days-of-code.webp)
 
 # #7DaysofCode
 
@@ -15,10 +15,10 @@ El 7 Days of Code es un desafío de lógica de programación para estudiantes de
 Este repositorio contiene mis **soluciones personales** a los ejercicios diarios del desafío.
 
 ## Desafíos 
-- `day-01` – [Lógica JS 1/7: Operaciones Booleanas](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-01/)
-- `day-02` – [Lógica JS 2/7: Variables](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-02/)
-- `day-03` – [Lógica JS 3/7: Estructuras de control de flujo](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-03/)
-- `day-04` – [Lógica JS 4/7: Mas loops y randomización](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-04/)
-- `day-05` – Próximamente
+- `day-01` – [Operaciones Booleanas](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-01/)
+- `day-02` – [Variables](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-02/)
+- `day-03` – [Estructuras de control de flujo](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-03/)
+- `day-04` – [Mas loops y randomización](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-04/)
+- `day-05` – [Arrays y colecciones](https://iesvs-campi.github.io/oracle-one-7-days-of-code/day-05/)
 - `day-06` – Próximamente
 - `day-07` – Próximamente
